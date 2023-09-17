@@ -1,5 +1,3 @@
-"# MahindiNet" 
-
 # Mahindinet Maize Leaf Pests and Armyworm Dataset
 
 ## Overview
@@ -25,6 +23,8 @@ The dataset contains the following directories and files:
 - Number of Healthy Images: 749
 - Number of Fall Armyworm Images: 607
 
+## Data accessibility
+- MahindiNet dataset  can be downloaded form the Google Drive link https://drive.google.com/drive/folders/1cAToeorNrahvi0ayFH476_a1POyFONOG?usp=sharing
 
 ## Data Collection
 
